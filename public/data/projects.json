@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "sm-hr-pro",
+    "name": "SM HR Pro",
+    "description": "HR & Payroll Management System",
+    "longDescription": "A centralized human resources platform that simplifies employee records, attendance, leave, payroll and compliance workflows for growing organizations.",
+    "industry": "Human Resources",
+    "technology": "React, Node.js, MongoDB",
+    "visual": "hr",
+    "featured": true,
+    "demoUrl": "",
+    "features": [
+      "Employee lifecycle management",
+      "Attendance and leave tracking",
+      "Automated payroll processing",
+      "Reports and compliance insights"
+    ],
+    "benefits": [
+      "Reduce repetitive HR administration",
+      "Improve payroll accuracy",
+      "Give teams a clear employee self-service experience"
+    ]
+  },
+  {
+    "slug": "manufacturing-erp",
+    "name": "Manufacturing ERP",
+    "description": "Manufacturing & Production ERP",
+    "longDescription": "An operations-focused ERP that connects production planning, inventory, procurement, quality checks and dispatch in one dependable workspace.",
+    "industry": "Manufacturing",
+    "technology": "React, Express, MongoDB",
+    "visual": "erp",
+    "featured": true,
+    "demoUrl": "",
+    "features": [
+      "Production planning",
+      "Inventory and procurement",
+      "Quality control workflows",
+      "Dispatch and performance reports"
+    ],
+    "benefits": [
+      "Increase production visibility",
+      "Control material movement",
+      "Make faster operational decisions"
+    ]
+  },
+  {
+    "slug": "job-portal",
+    "name": "Job Portal",
+    "description": "Recruitment & Placement Platform",
+    "longDescription": "A complete recruitment marketplace for publishing roles, managing applications, evaluating candidates and coordinating placement workflows.",
+    "industry": "Recruitment",
+    "technology": "React, Node.js, MongoDB",
+    "visual": "jobs",
+    "featured": true,
+    "demoUrl": "",
+    "features": [
+      "Job and employer management",
+      "Candidate application tracking",
+      "Search and smart filters",
+      "Recruitment analytics"
+    ],
+    "benefits": [
+      "Shorten hiring cycles",
+      "Organize candidate pipelines",
+      "Deliver a better applicant experience"
+    ]
+  },
+  {
+    "slug": "ai-resume-builder",
+    "name": "AI Resume Builder",
+    "description": "AI-powered Resume & Career Platform",
+    "longDescription": "A guided career platform that helps candidates create professional resumes, improve content with AI and prepare application-ready documents.",
+    "industry": "AI Solutions",
+    "technology": "React, Node.js, AI APIs",
+    "visual": "ai",
+    "featured": true,
+    "demoUrl": "",
+    "features": [
+      "Guided resume creation",
+      "AI content recommendations",
+      "Multiple professional templates",
+      "Export-ready documents"
+    ],
+    "benefits": [
+      "Create stronger resumes faster",
+      "Maintain consistent formatting",
+      "Receive practical content guidance"
+    ]
+  }
+]
